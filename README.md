@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Hi, I’m Sagar<br><br>	•	🚀 Full-Stack Developer passionate about building modern web apps<br>	•	💻 Expert in MERN stack & TypeScript<br>	•	🎨 Love creating smooth UI/UX with Framer Motion & GSAP<br>	•	🌱 Currently exploring Web3<br><br>Let's connect: thesagardabas@gmail.com</p>
+<p align="left">Hi, I’m Sagar<br><br>	•	 Full-Stack Developer passionate about building modern web apps<br>	•	 Expert in MERN stack & TypeScript<br>	•	 Love creating smooth UI/UX with Framer Motion & GSAP<br>	•	 Currently exploring Web3<br><br>Let's connect: thesagardabas@gmail.com</p>
 
 ###
 
